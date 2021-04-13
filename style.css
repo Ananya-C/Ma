@@ -1,0 +1,15 @@
+#h1{
+    color: red
+}
+body{
+    text-align: center
+}
+h1:hover{
+  transform: scale(3.9);
+}
+#p1{
+    font-size:20px
+}
+.img1ma{
+    width:240px
+}
